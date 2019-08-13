@@ -15,7 +15,10 @@
 
 * Get : 리소스 자원을 read(조회)
 > Parameter값이 URL에 표기됨
+
 * Put : update/create(추가)
+
 * Post : 수정
 > URL에 표시되지 않고 requestBody에 담아서 전달한다
+
 * Delete : delete
