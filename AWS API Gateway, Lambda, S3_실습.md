@@ -19,6 +19,8 @@
 
 ## API Gateway와 Lambda 연결
 연결한 후 기본 Test 진행 하는 것 보여주기
+프록시 설정 추가해야함
+Lambda Proxy를 활성화 시킬 경우 HTTP 요청이 그대로 들어오는 대신, AWS에서 제공하는 event 객체가 대신 Lambda함수로 넘어가게 됩니다. 
 
 ## S3 버킷 생성
 CORS 구성 추가
